@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+local.env
+.env
+data/mock_store.json
+.pytest_cache/
+.DS_Store

@@ -1,0 +1,11 @@
+langchain>=0.3
+langchain-core>=0.3
+langchain-openai>=0.2
+langchain-pinecone>=0.2
+langchain-text-splitters>=0.3
+pinecone>=5.0
+pyTelegramBotAPI>=4.20
+requests>=2.31
+beautifulsoup4>=4.12
+python-dotenv>=1.0
+pytest>=8.0
